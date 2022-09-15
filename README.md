@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afaqShahidKhan
+- 👋 Hi, I’m @AfaqShahidKhan
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Next.js. Previosusly I have been worked on Java, Flutter and Vue and React.
 - 💞️ I’m looking to collaborate on Flutter Project
