@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Next.js. Previosusly I have been worked on Java, Flutter and Vue and React.
 - My Portfolio link is here:
 - https://my-portfolio-in-next-js-afaqshahidkhan.vercel.app/
-- 💞️ I’m looking to collaborate on Flutter Project
+- 💞️ I’m looking to collaborate on Web Project
 - 📫 How to reach me : Mail me at:  afaqk3203@gmail.com
 
 <!---
