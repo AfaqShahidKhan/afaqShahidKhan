@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AfaqShahidKhan
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Next.js. Previosusly I have been worked on Java, Flutter and Vue and React.
+- 🌱 I’m currently Working on Ruby on Rails . Previosusly I have been worked on Next.js, Java, Flutter and Vue and C++.
 - My Portfolio link is here:
 - https://afaqshahidkhan.vercel.app/
 - 💞️ I’m looking to collaborate on Web Project
