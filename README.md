@@ -4,7 +4,7 @@
 - My Portfolio link is here:
 - https://afaqshahidkhan.vercel.app/
 - 💞️ I’m looking to collaborate on Web Project
-- 📫 How to reach me : Mail me at:  afaqk3203@gmail.com
+- 📫 How to reach me : Mail me at:  afaqshahidk@gmail.com
 
 <!---
 AfaqShahidKhan/AfaqShahidKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
